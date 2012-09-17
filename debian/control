@@ -1,0 +1,10 @@
+Source: isobmffdump
+Section: video
+Priority: optional
+Maintainer: Pierre-Yves Kerembellec <py.kerembellec@gmail.com>
+Build-Depends: debhelper (>= 5), g++, make
+Standards-Version: 3.7.2
+
+Package: isobmffdump
+Architecture: any
+Description: ISO BMFF file structure dumper

@@ -1,0 +1,5 @@
+isobmffdump (1.0) stable; urgency=medium
+
+  * initial packaging
+
+ -- Pierre-Yves Kerembellec <py.kerembellec@gmail.com>  Mon, 17 Sep 2012 19:06:56 +0200
